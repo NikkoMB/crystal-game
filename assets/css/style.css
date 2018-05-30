@@ -1,0 +1,25 @@
+h1 {
+   text-align: center; 
+   color: blue; 
+   font-family: Chalkduster, fantasy; 
+   font-size: 100px; 
+}
+
+h2 {
+    color: black; 
+    text-align: center; 
+}
+
+h3 {
+    color: red; 
+    text-align: center; 
+}
+
+p {
+    color: blue; 
+    text-align: center; 
+}
+
+img { 
+    margin-right: 140px; 
+}
