@@ -1,6 +1,6 @@
-# unit-4-game
+CRYSTAL GAME
 
-Click on the crystals to match the number. Go any higher than the expected number and you lose!
+Click on the crystals to match the number. Match the exact number and you win! BUT go any higher than the expected number and you lose!
 
 Good Luck! 
 
