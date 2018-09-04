@@ -4,6 +4,6 @@ Click on the crystals to match the number. Match the exact number and you win! B
 
 Good Luck! 
 
- https://nikkomb.github.io/unit-4-game/
+https://nikkomb.github.io/crystal-game/
 
 Powered by JQuery! 
